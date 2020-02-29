@@ -10,3 +10,16 @@
 
 # Used by pyenv
 /.python-version
+.gitignore
+codeStyles/
+misc.xml
+modules.xml
+sonarlint/
+vcs.xml
+
+# Used by virtualenv
+venv/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
